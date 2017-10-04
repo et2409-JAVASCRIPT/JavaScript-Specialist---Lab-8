@@ -23,8 +23,8 @@ window.onload = function()
                                 
                     
                 }
-            
-        } notFrequent = 0;
+            notFrequent = 0;
+        } 
     alert (item + " appears " + mostFrequent + " times");
     
 } 
